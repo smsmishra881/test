@@ -1,0 +1,6 @@
+/Users/subhashkumar.mishra/Documents/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/servlets/SimpleServletTest.java
+/Users/subhashkumar.mishra/Documents/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/models/HelloWorldModelTest.java
+/Users/subhashkumar.mishra/Documents/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/schedulers/SimpleScheduledTaskTest.java
+/Users/subhashkumar.mishra/Documents/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/filters/LoggingFilterTest.java
+/Users/subhashkumar.mishra/Documents/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/testcontext/AppAemContext.java
+/Users/subhashkumar.mishra/Documents/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/listeners/SimpleResourceListenerTest.java
